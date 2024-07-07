@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/untitled1_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Qt  ganster/untitled1",
+	"CMAKE_SOURCE_DIR" : "C:/Qt  ganster/untitled1",
+	"INCLUDE_DIR" : "C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/untitled1_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/imegion/icons8-calculator-240.png",
+		"C:/imegion/photo_2024-05-10_15-06-26.jpg",
+		"C:/imegion/icons8-calculator-100.png",
+		"C:/imegion/ba73270855d15d1620f6cca9d27d07c0.jpg",
+		"C:/Qt  ganster/untitled1/img/photo_2024-05-09_12-49-59 (2).jpg"
+	],
+	"LOCK_FILE" : "C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/CMakeFiles/untitled1_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/CMakeFiles/untitled1_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Qt  ganster/untitled1/resources.qrc",
+	"VERBOSITY" : 0
+}

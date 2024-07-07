@@ -1,0 +1,9 @@
+C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/CMakeFiles/untitled1.dir
+C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/CMakeFiles/install.dir
+C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/CMakeFiles/untitled1_autogen_timestamp_deps.dir
+C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/CMakeFiles/untitled1_autogen.dir

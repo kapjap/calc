@@ -1,0 +1,89 @@
+# ninja log v5
+5	187	7369964869424077	untitled1_autogen/timestamp	fc4c35975e235fc
+2020	2224	7369964889754725	untitled1.exe	a810025e0cf58766
+5	187	7369964869424077	untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+5	187	7369964869424077	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/timestamp	fc4c35975e235fc
+254	2020	7369964887729172	CMakeFiles/untitled1.dir/mainwindow.cpp.obj	ad0cd315326d124e
+641	2594	7369863772743625	CMakeFiles/untitled1.dir/untitled1_autogen/mocs_compilation.cpp.obj	94378780a42ea20b
+5	187	7369964869424077	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+635	2697	7369863773783621	CMakeFiles/untitled1.dir/main.cpp.obj	f74f4f0b48ed8d1b
+197	254	7369964870065529	untitled1_autogen/EWIEGA46WW/qrc_resources.cpp	ad028af5f52a0f71
+197	254	7369964870065529	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/EWIEGA46WW/qrc_resources.cpp	ad028af5f52a0f71
+259	518	7369964872715489	CMakeFiles/untitled1.dir/untitled1_autogen/EWIEGA46WW/qrc_resources.cpp.obj	fde55f156c88be1b
+9	717	7370509670440157	untitled1_autogen/timestamp	fc4c35975e235fc
+9	717	7370509670440157	untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+9	717	7370509670440157	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/timestamp	fc4c35975e235fc
+9	717	7370509670440157	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+718	807	7370509671980161	untitled1_autogen/EWIEGA46WW/qrc_resources.cpp	ad028af5f52a0f71
+718	807	7370509671980161	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/EWIEGA46WW/qrc_resources.cpp	ad028af5f52a0f71
+820	1385	7370509677780174	CMakeFiles/untitled1.dir/untitled1_autogen/EWIEGA46WW/qrc_resources.cpp.obj	fde55f156c88be1b
+814	2903	7370509692950153	CMakeFiles/untitled1.dir/untitled1_autogen/mocs_compilation.cpp.obj	94378780a42ea20b
+808	3047	7370509694380170	CMakeFiles/untitled1.dir/main.cpp.obj	f74f4f0b48ed8d1b
+829	3448	7370509698396330	CMakeFiles/untitled1.dir/mainwindow.cpp.obj	ad0cd315326d124e
+3448	3679	7370509700684893	untitled1.exe	a810025e0cf58766
+5	130	7370522637941033	untitled1_autogen/timestamp	fc4c35975e235fc
+5	130	7370522637941033	untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+5	130	7370522637941033	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/timestamp	fc4c35975e235fc
+5	130	7370522637941033	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+6	139	7370522722970288	untitled1_autogen/timestamp	fc4c35975e235fc
+6	139	7370522722970288	untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+6	139	7370522722970288	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/timestamp	fc4c35975e235fc
+6	139	7370522722970288	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+6	153	7370524288066518	untitled1_autogen/timestamp	fc4c35975e235fc
+6	153	7370524288066518	untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+6	153	7370524288066518	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/timestamp	fc4c35975e235fc
+6	153	7370524288066518	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+6	176	7370524329532094	untitled1_autogen/timestamp	fc4c35975e235fc
+6	176	7370524329532094	untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+6	176	7370524329532094	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/timestamp	fc4c35975e235fc
+6	176	7370524329532094	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+190	2379	7370524351561988	CMakeFiles/untitled1.dir/mainwindow.cpp.obj	ad0cd315326d124e
+2380	2624	7370524353971989	untitled1.exe	a810025e0cf58766
+6	151	7370524757694678	untitled1_autogen/timestamp	fc4c35975e235fc
+6	151	7370524757694678	untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+6	151	7370524757694678	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/timestamp	fc4c35975e235fc
+6	151	7370524757694678	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+162	2292	7370524779084683	CMakeFiles/untitled1.dir/mainwindow.cpp.obj	ad0cd315326d124e
+2292	2559	7370524781754723	untitled1.exe	a810025e0cf58766
+7	164	7370525554891914	untitled1_autogen/timestamp	fc4c35975e235fc
+7	164	7370525554891914	untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+7	164	7370525554891914	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/timestamp	fc4c35975e235fc
+7	164	7370525554891914	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+176	2281	7370525576061896	CMakeFiles/untitled1.dir/mainwindow.cpp.obj	ad0cd315326d124e
+2281	2543	7370525578631912	untitled1.exe	a810025e0cf58766
+5	133	7370526980096097	untitled1_autogen/timestamp	fc4c35975e235fc
+5	133	7370526980096097	untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+5	133	7370526980096097	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/timestamp	fc4c35975e235fc
+5	133	7370526980096097	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+6	167	7370537057674296	untitled1_autogen/timestamp	fc4c35975e235fc
+6	167	7370537057674296	untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+6	167	7370537057674296	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/timestamp	fc4c35975e235fc
+6	167	7370537057674296	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+180	2515	7370537081144251	CMakeFiles/untitled1.dir/mainwindow.cpp.obj	ad0cd315326d124e
+2515	2758	7370537083544272	untitled1.exe	a810025e0cf58766
+12	170	7370537386279632	untitled1_autogen/timestamp	fc4c35975e235fc
+12	170	7370537386279632	untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+12	170	7370537386279632	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/timestamp	fc4c35975e235fc
+12	170	7370537386279632	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+6	174	7370537518424221	untitled1_autogen/timestamp	fc4c35975e235fc
+6	174	7370537518424221	untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+6	174	7370537518424221	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/timestamp	fc4c35975e235fc
+6	174	7370537518424221	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+8	176	7370537657109275	untitled1_autogen/timestamp	fc4c35975e235fc
+8	176	7370537657109275	untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+8	176	7370537657109275	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/timestamp	fc4c35975e235fc
+8	176	7370537657109275	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+191	2380	7370537679149296	CMakeFiles/untitled1.dir/mainwindow.cpp.obj	ad0cd315326d124e
+2380	2620	7370537681519295	untitled1.exe	a810025e0cf58766
+5	156	7370538272986670	untitled1_autogen/timestamp	fc4c35975e235fc
+5	156	7370538272986670	untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+5	156	7370538272986670	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/timestamp	fc4c35975e235fc
+5	156	7370538272986670	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+167	2404	7370538295446655	CMakeFiles/untitled1.dir/mainwindow.cpp.obj	ad0cd315326d124e
+2405	2644	7370538297826643	untitled1.exe	a810025e0cf58766
+7	142	7370538922530136	untitled1_autogen/timestamp	fc4c35975e235fc
+7	142	7370538922530136	untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+7	142	7370538922530136	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/timestamp	fc4c35975e235fc
+7	142	7370538922530136	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp	fc4c35975e235fc
+153	2276	7370538943840155	CMakeFiles/untitled1.dir/mainwindow.cpp.obj	ad0cd315326d124e
+2276	2511	7370538946160156	untitled1.exe	a810025e0cf58766

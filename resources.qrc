@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/GG"/>
+    <qresource prefix="/gg"/>
+    <qresource prefix="/">
+        <file>img/photo_2024-05-09_12-49-59 (2).jpg</file>
+        <file>../../imegion/ba73270855d15d1620f6cca9d27d07c0.jpg</file>
+        <file>../../imegion/icons8-calculator-100.png</file>
+        <file>../../imegion/icons8-calculator-240.png</file>
+        <file>../../imegion/photo_2024-05-10_15-06-26.jpg</file>
+    </qresource>
+</RCC>

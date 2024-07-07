@@ -1,0 +1,12 @@
+# ninja log v5
+1	822	7369886199399498	untitled1_autogen/timestamp	974e5e33a39992a3
+1	822	7369886199399498	untitled1_autogen/mocs_compilation.cpp	974e5e33a39992a3
+1	822	7369886199399498	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Profile/untitled1_autogen/timestamp	974e5e33a39992a3
+1	822	7369886199399498	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Profile/untitled1_autogen/mocs_compilation.cpp	974e5e33a39992a3
+823	899	7369886200842085	untitled1_autogen/EWIEGA46WW/qrc_resources.cpp	836f61ca6c70fa78
+823	899	7369886200842085	C:/Qt  ganster/untitled1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Profile/untitled1_autogen/EWIEGA46WW/qrc_resources.cpp	836f61ca6c70fa78
+907	1059	7369886202442092	CMakeFiles/untitled1.dir/untitled1_autogen/EWIEGA46WW/qrc_resources.cpp.obj	4926d3b316def4d7
+900	3397	7369886225826320	CMakeFiles/untitled1.dir/untitled1_autogen/mocs_compilation.cpp.obj	dbf3c895ed9fd36b
+913	3446	7369886226326281	CMakeFiles/untitled1.dir/main.cpp.obj	8efe0160910d96c6
+922	4301	7369886234855400	CMakeFiles/untitled1.dir/mainwindow.cpp.obj	90a9d099dcdefdbc
+4302	4526	7369886237085407	untitled1.exe	5edd3f01345f39e1
